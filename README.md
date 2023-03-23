@@ -34,7 +34,9 @@ As a user or business owner you will be able to stablish your database which wil
 
 ## Mock-Up
 
-The following image shows a mock-up of appearance and functionality:
+The following video shows a mock-up of appearance and functionality:
+https://drive.google.com/file/d/1prfDlyfpW_d66U_JfDsYgLjB7l-VcmEI/view
+
 
 ## License
 
